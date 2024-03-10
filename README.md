@@ -24,6 +24,7 @@ Contributions are welcome! To contribute to the project, fork this repository, m
 # Added some screenshots links will help you in practical approach
 https://github.com/NimishRathi/game-2048-deployed/blob/main/Screenshot%202024-03-10%20144911.png
 https://github.com/NimishRathi/game-2048-deployed/blob/main/Screenshot%202024-03-10%20145027.png
+https://github.com/NimishRathi/game-2048-deployed/blob/main/Screenshot%202024-03-10%20154652.png
 
 
 
