@@ -10,7 +10,7 @@ This repository contains files to deploy the 2048 game using Docker.
 To deploy the game using Docker, follow these steps:
 1. Clone this repository.
 2. Build the Docker image: `docker build -t 2048-game .`
-3. Run the Docker container: `docker run -d -p 8080:80 2048-game`
+3. Run the Docker container: `docker run -d -p 80:80 2048-game`
 
 # Dockerfile
    https://github.com/NimishRathi/game-2048-deployed/commit/101772c566ec0d5baf061fe63596d1727ebf21b8
