@@ -21,5 +21,8 @@ Visit `http://localhost:8080` in your web browser to play the game.
 # Contributing
 Contributions are welcome! To contribute to the project, fork this repository, make your changes, and submit a pull request.
 
+# Added some screenshots links will help you in practical approach
+https://github.com/NimishRathi/game-2048-deployed/blob/main/Screenshot%202024-03-10%20144911.png
+
 
 
